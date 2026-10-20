@@ -142,6 +142,7 @@ This is a list of trading card game resources: official sites, rules, deck build
 ## Prices and marketplaces
 
 - [Cardlytics](https://cardlytics.app) - Daily price history for Pokemon, Magic, Yu-Gi-Oh, One Piece and Lorcana cards.
+- [CardZ Marketcap](https://cardzmarketcap.com/) - Daily PSA 10 market cap, reference prices and population for graded Pokémon and One Piece cards, with a free JSON API.
 - [TCGplayer](https://www.tcgplayer.com/) - Large US marketplace for singles and sealed product.
 - [TCGplayer API docs](https://docs.tcgplayer.com/) - Documentation for the TCGplayer developer API.
 - [CardTrader](https://www.cardtrader.com) - European marketplace with a seller network.
