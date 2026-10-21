@@ -65,6 +65,7 @@ This is a list of trading card game resources: official sites, rules, deck build
 - [Forge](https://github.com/Card-Forge/forge) - Open-source Magic rules engine with an AI opponent.
 - [XMage](https://github.com/magefree/mage) - Open-source client for playing Magic online.
 - [Tolarian Community College](https://www.tolariancommunitycollege.com/) - Video channel for product reviews and Commander.
+- [Spellgs](https://spellgs.com/) - Directory of US Magic game stores with their weekly Commander nights and prerelease events.
 
 ## Yu-Gi-Oh!
 
