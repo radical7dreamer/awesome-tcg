@@ -144,6 +144,7 @@ This is a list of trading card game resources: official sites, rules, deck build
 - [Cardlytics](https://cardlytics.app) - Daily price history for Pokemon, Magic, Yu-Gi-Oh, One Piece and Lorcana cards.
 - [TCGplayer](https://www.tcgplayer.com/) - Large US marketplace for singles and sealed product.
 - [TCGplayer API docs](https://docs.tcgplayer.com/) - Documentation for the TCGplayer developer API.
+- [TickerMint API](https://tickermint.cards/developers) - REST API and MCP server with daily TCGplayer market prices and price history for Pokemon, One Piece, Lorcana, Riftbound, Yu-Gi-Oh, Gundam and Dragon Ball Super Fusion World cards, with a free key for 1,000 lookups a day.
 - [CardTrader](https://www.cardtrader.com) - European marketplace with a seller network.
 - [Hareruya](https://www.hareruyamtg.com/) - Japanese Magic retailer with English pages.
 
