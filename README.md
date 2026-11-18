@@ -146,6 +146,7 @@ This is a list of trading card game resources: official sites, rules, deck build
 - [TCGplayer API docs](https://docs.tcgplayer.com/) - Documentation for the TCGplayer developer API.
 - [CardTrader](https://www.cardtrader.com) - European marketplace with a seller network.
 - [Hareruya](https://www.hareruyamtg.com/) - Japanese Magic retailer with English pages.
+- [Pooka](https://pooka.app/pokemon-card-prices) - Weekly Pokemon card price movers, with Cardmarket, eBay and TCGplayer prices for English and Japanese cards.
 
 ## Grading
 
